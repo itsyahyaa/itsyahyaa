@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-![Yahya's github stats](https://github-readme-stats.vercel.app/api?username=itsyahyaa&count_private=true&show_icons=true&theme=synthwave)
+<!-- 
+![Yahya's github stats](https://github-readme-stats.vercel.app/api?username=itsyahyaa&count_private=true&show_icons=true&theme=synthwave) -->
 <!--
 **itsyahyaa/itsyahyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
